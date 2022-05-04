@@ -1,0 +1,23 @@
+TAG
+
+<!doctype html> 	= 첫번째 약속 "이내용은 HTML이다"
+<head></head>	= 두번째 "바디를 설명하는 제목"
+<title></title> 	= 책표지 "웹페이지 이름"
+<meta charset="utf-8">	= utf-8로 열어라.
+
+<body></body>	= 본문내용
+
+unsplash.com	저작권X 고화질이미지
+<strong></strong>= 두껍게	
+<u></u> 	= 밑줄
+<h1></h1>	= 제목
+<br>		= 줄바꿈
+<p></p> 	= 단락
+<img src"coding.jpg" width="100%> = 이미지넣기
+<ol></ol>	=숫자 자동넘버링 =orderedlist
+<li></li>		= 리스트
+<ul></ul>	= 		=unorderedlist
+<a href="http://www.cubicpan.com/" target="_blank" title="html cubipan">
+		= 사이트 넣기 = 따로열기 = 앱팁
+<img src="coding.jpg" width="100%">
+		= 이미지 넣기, 사이즈
